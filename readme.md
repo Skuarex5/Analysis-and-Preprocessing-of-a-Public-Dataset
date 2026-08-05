@@ -463,10 +463,3 @@ Coeficiente de determinación (R²): 0.9997
 Developed by [Skuarex5](https://github.com/Skuarex5).
 
 ---
-
-## 📌 Disclaimer
-
-This project is intended for educational and demonstrative purposes.
-
-The generated values do not represent measurements from a real geological monitoring system or physical sensor.
-````
