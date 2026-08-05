@@ -1,4 +1,3 @@
-````markdown
 # 📊 Sensor Data Analysis and Preprocessing
 
 This project demonstrates a complete data analysis and preprocessing workflow using Python.
